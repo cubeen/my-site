@@ -1,0 +1,21 @@
+title: My Docs & Notes
+tagline: Technical Documentation & Notes
+description: A static documentation site powered by Jekyll Chirpy.
+url: "https://cubeen.github.io"
+baseurl: "/my-docs-site"
+
+author: Jakub
+
+# Theme Selection
+theme: jekyll-theme-chirpy
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
