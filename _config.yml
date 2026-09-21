@@ -2,7 +2,7 @@ title: My Docs & Notes
 tagline: Technical Documentation & Notes
 description: A static documentation site powered by Jekyll Chirpy.
 url: "https://cubeen.github.io"
-baseurl: "/my-docs-site"
+baseurl: "/my-site"
 
 author: Jakub
 
