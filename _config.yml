@@ -3,7 +3,7 @@ tagline: ML Engineer
 description: A portfolio site for Machine Learning Projects
 url: "https://cubeen.github.io"
 baseurl: "/my-site"
-avatar: /assets/img/rogalski.jpeg
+avatar: /assets/img/rogalski.jpg
 author: Jakub Rogalski
 timezone: Europe/London
 lang: en
