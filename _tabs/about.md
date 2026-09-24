@@ -2,7 +2,7 @@
 layout: page
 title: About
 icon: fas opacity-75 fa-user
-order: 4
+order: 1
 ---
 
 ## Hi, I'm Jakub
