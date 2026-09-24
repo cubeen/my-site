@@ -1,10 +1,10 @@
-title: My Docs & Notes
-tagline: Technical Documentation & Notes
-description: A static documentation site powered by Jekyll Chirpy.
+title: Jakub Rogalski
+tagline: Portfolio site
+description: A porfolio site for Machine Learning Projects.
 url: "https://cubeen.github.io"
 baseurl: "/my-site"
-
-author: Jakub
+avatar: /assets/img/rogalski.jpeg
+author: Jakub Rogalski
 
 # Theme Selection
 theme: jekyll-theme-chirpy
