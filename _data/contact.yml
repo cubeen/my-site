@@ -1,0 +1,11 @@
+- type: email
+  icon: 'fas fa-envelope'
+  url: 'mailto:jakub.rogalski@gmail.com'
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://linkedin.com/in/jakubrogalski'
+
+- type: bitbucket
+  icon: 'fab fa-bitbucket'
+  url: 'https://bitbucket.org/cubeen'
