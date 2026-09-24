@@ -8,10 +8,10 @@ author: Jakub Rogalski
 timezone: Europe/London
 lang: en
 
-# Theme Selection (Required for GitHub Pages)
-remote_theme: cotes2020/jekyll-theme-chirpy
+# Theme Selection (Restored)
+theme: jekyll-theme-chirpy
 
-# Pagination (Fixes the blank homepage)
+# Pagination (Kept to ensure the homepage loop works)
 paginate: 10
 
 # Plugins
