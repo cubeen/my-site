@@ -1,13 +1,18 @@
 title: Jakub Rogalski
 tagline: Portfolio site
-description: A porfolio site for Machine Learning Projects.
+description: A portfolio site for Machine Learning Projects.
 url: "https://cubeen.github.io"
 baseurl: "/my-site"
 avatar: /assets/img/rogalski.jpeg
 author: Jakub Rogalski
+timezone: Europe/London
+lang: en
 
-# Theme Selection
-theme: jekyll-theme-chirpy
+# Theme Selection (Required for GitHub Pages)
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# Pagination (Fixes the blank homepage)
+paginate: 10
 
 # Plugins
 plugins:
