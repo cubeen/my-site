@@ -1,4 +1,4 @@
-- type: email
+- type: generic
   icon: 'fas fa-envelope'
   url: 'mailto:jakub.rogalski@gmail.com'
 
