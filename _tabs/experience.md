@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-icon: fas opacity-75 fa-briefcase
+icon: fas fa-briefcase
 order: 2
 ---
 

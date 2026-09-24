@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-icon: fas opacity-75 fa-user
+icon: fas fa-user
 order: 4
 ---
 

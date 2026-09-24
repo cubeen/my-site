@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-icon: fas opacity-75 fa-folder-open
+icon: fas fa-folder-open
 order: 1
 ---
 

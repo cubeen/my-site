@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skills
-icon: fas opacity-75 fa-code
+icon: fas fa-code
 order: 3
 ---
 
