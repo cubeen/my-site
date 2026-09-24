@@ -26,15 +26,8 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
-# Scope Boundaries (Eliminates the 1970 ghost entry)
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
+# Custom Collections for Sidebar Navigation
+collections:
+  tabs:
+    output: true
+    sort_by: order
