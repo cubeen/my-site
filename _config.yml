@@ -1,6 +1,6 @@
 title: Jakub Rogalski
-tagline: Portfolio site
-description: A portfolio site for Machine Learning Projects.
+tagline: ML Engineer
+description: A portfolio site for Machine Learning Projects
 url: "https://cubeen.github.io"
 baseurl: "/my-site"
 avatar: /assets/img/rogalski.jpeg
@@ -10,6 +10,7 @@ lang: en
 
 # Theme Selection (Restored)
 theme: jekyll-theme-chirpy
+theme_mode: dark
 
 # Pagination (Kept to ensure the homepage loop works)
 paginate: 10
@@ -24,3 +25,16 @@ plugins:
 # Build Settings
 markdown: kramdown
 highlighter: rouge
+
+# Scope Boundaries (Eliminates the 1970 ghost entry)
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
