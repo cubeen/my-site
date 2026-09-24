@@ -1,6 +1,6 @@
 ---
 title: "Project 2: Real-Time Machine Learning Pipeline"
-date: 2026-09-24 12:10:00 +0000
+date: 2026-09-23 12:10:00 +0000
 categories: [Projects, Machine Learning]
 tags: [python, docker, scikit-learn]
 pin: true
