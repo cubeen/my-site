@@ -5,20 +5,28 @@ icon: fas opacity-75 fa-user
 order: 1
 ---
 
-## Hi, I'm Jakub
+## Hi there, I'm Jakub
 
-I am a Machine Learning Engineer based in London, currently pursuing a Master of Science in Computer Science with Artificial Intelligence. 
+I am a Machine Learning Engineer based in London. With over six years of prior experience directing an IT operations team, I bring a unique dual perspective to artificial intelligence: I understand both the rigorous engineering required to build predictive models and the practical business constraints required to deploy them effectively.
 
-My engineering focus bridges the gap between predictive modeling and robust deployment infrastructure. I specialize in building and deploying machine learning pipelines using Python, Scikit-Learn, Keras, and TensorFlow, backed by a strong foundation in applied statistics and data engineering (Docker, Kubernetes, and MLOps).
+My core objective is to translate complex data into actionable, scalable solutions that drive measurable business value, optimize operational workflows, and support strategic decision-making.
 
-### Professional Background
-Prior to specializing in artificial intelligence, I spent over six years directing an IT team at a London-based limited company (exiting in November 2022). This extensive background in managing technical operations, hardware infrastructure, and networking provides me with a highly pragmatic, systems-level approach to ML engineering. I do not just train models; I understand the physical and networked environments they run in.
+### Technical Expertise & Engineering
 
-### Knowledge & Methodology
-I am a stringent advocate for systematic knowledge management. I rely heavily on advanced spaced repetition algorithms and incremental reading workflows (via SuperMemo) to continuously assimilate complex ML architectures, statistical probability distributions, and new technical frameworks. 
+My technical workflow is firmly rooted in modern, production-grade Python development and comprehensive machine learning frameworks. I focus on building intelligent systems that are robust, maintainable, and strictly version-controlled.
 
-### Beyond the Screen
-When I am not training models on my Apple Silicon environment, I am actively expanding my linguistic capabilities (currently studying Egyptian Arabic and Swedish) and applying rigorous, data-driven methodologies to horticulture and arboriculture, specifically focusing on synthetic rooting propagation and specialized substrate formulations.
+*   **Machine Learning & Deep Learning:** End-to-end pipeline development using Scikit-Learn, Keras, and TensorFlow. Expertise encompasses robust data preprocessing, feature engineering, classification and regression modeling, and constructing deep neural networks.
+*   **Software Development:** Advanced Python programming focusing on clean architecture, efficient data structures, and maintainable codebase design.
+*   **Version Control & CI/CD:** Rigorous utilization of Git for source control, coupled with continuous integration workflows (e.g., GitHub Actions) to automate testing and ensure code reliability across collaborative environments.
+*   **Deployment Infrastructure:** Practical knowledge of system administration, containerization, and networking, ensuring models are designed for the physical and networked environments they will inhabit.
+
+### Leadership & Strategic Problem-Solving
+
+Prior to specializing in AI, I spent six years leading an IT team at a London-based limited company. This tenure instilled a highly pragmatic, outcome-focused approach to engineering:
+
+*   **Systems-Level Troubleshooting:** A proven track record of diagnosing complex technical failures, performing root-cause analysis, and implementing permanent, scalable fixes rather than temporary patches.
+*   **Business Alignment:** Experience bridging the communication gap between technical teams and stakeholders, ensuring engineering initiatives directly support overarching business goals and deliver high ROI.
+*   **Risk & Resource Management:** Evaluating architectural trade-offs, managing project lifecycles, and deploying reliable infrastructure that minimizes operational friction and downtime.
 
 ---
-*Feel free to connect with me via the social links in the sidebar.*
+*Available for professional inquiries and collaboration via the contact links in the sidebar.*
