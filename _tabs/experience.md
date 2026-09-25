@@ -7,9 +7,9 @@ order: 2
 
 ## Professional Experience
 
-### Machine Learning Engineer & MSc Candidate
+### Freelance Atlassian Administrator and ML Student
 **Independent Projects & Academic Research** | *London, UK*
-*2024 – Present*
+*2023 – Present*
 
 Currently pursuing a Master of Science in Computer Science with Artificial Intelligence while actively developing production-ready ML architectures.
 * **Predictive Modeling & Deep Learning:** Designing and training neural networks and machine learning models using TensorFlow, Keras, and Scikit-Learn.
@@ -19,7 +19,7 @@ Currently pursuing a Master of Science in Computer Science with Artificial Intel
 
 ### IT Team Lead
 **London-Based Limited Company** | *London, UK*
-*2016 – November 2022*
+*2016 – 2022*
 
 Directed IT operations and managed a technical team for over six years, establishing resilient network infrastructures and overseeing hardware lifecycles.
 * **Technical Leadership:** Managed day-to-day IT operations, technical support pipelines, and systems administration for the organization.
