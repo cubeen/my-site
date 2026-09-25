@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project 4: Random Forest Classifier for Property Grade Identification"
-date: 2026-09-25 12:00:00 +0100
+date: 2026-09-24 12:00:00 +0100
 categories: [Projects, Machine Learning]
 tags: [python, classification, random-forest, scikit-learn]
 description: "Implementing a Random Forest Classifier to identify high-quality properties in the King County housing dataset."

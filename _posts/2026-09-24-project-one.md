@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project 1: Property Valuation via Linear Regression"
-date: 2026-09-25 12:00:00 +0100
+date: 2026-09-24 12:00:00 +0100
 categories: [Projects, Machine Learning]
 tags: [python, scikit-learn, pandas, regression]
 description: "An end-to-end implementation of a Linear Regression model to predict continuous house prices using the King County dataset."

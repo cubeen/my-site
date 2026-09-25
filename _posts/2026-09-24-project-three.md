@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Logistic Regression for Property Quality Classification"
-date: 2026-09-25 10:00:00 +0100
+date: 2026-09-24 10:00:00 +0100
 categories: [Projects, Machine Learning]
 tags: [python, scikit-learn, classification, logistic-regression, pandas, eda]
 description: "A binary classification project identifying high-quality properties using Logistic Regression and feature engineering."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Random Forest Regression Optimization for Property Valuation"
-date: 2026-09-25 12:00:00 +0100
+date: 2026-09-24 12:00:00 +0100
 categories: [Projects, Machine Learning]
 tags: [python, regression, random-forest, scikit-learn]
 description: "Implementing an optimized Random Forest Regression model to predict real estate prices, featuring dynamic preprocessing and K-Fold cross-validation."
