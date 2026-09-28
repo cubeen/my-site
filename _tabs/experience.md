@@ -31,7 +31,9 @@ Directed IT operations and managed a technical team for over six years, establis
 ## Education
 
 * **MSc Computer Science with Artificial Intelligence** (Ongoing)
-* **Oracle Agentic AI Certified Foundations Associate** (2026)
-* **Oracle Cloud Infrastructure Generative AI Certified Professional** (2024)
-* **Oracle AI Vector Search Certified Professional** (2025)
-* **Oracle Cloud Infrastructure AI Foundations Associate** (2025)
+
+
+* **Agentic AI Certified Foundations Associate**, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D1F872EF97A6DE37B37BB31963DA3E8D1F2C58895C5D834664BECE26EF7B207F" target="_blank" rel="noopener noreferrer">Oracle</a>  (2026)
+* **Oracle AI Vector Search Certified Professional**, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=236F71137421F4925843C026B96522542BAC7FC70CAFE473BEAEB68AA37D5140" target="_blank" rel="noopener noreferrer">Oracle</a>  (2025)
+* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=39D8B364DCB08E3A29990C0411B922498E4B9F1DC5A198BD918F10E0E6DE09AF" target="_blank" rel="noopener noreferrer">Oracle</a>  (2025)
+* **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=67A7C3FCBD74A917C155F5FA58AE9537E7FC4A5B374D641E8DEEE55BA27CBCF3" target="_blank" rel="noopener noreferrer">Oracle</a>  (2024)
