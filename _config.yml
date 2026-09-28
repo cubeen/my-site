@@ -17,7 +17,7 @@ paginate: 10
 
 # Plugins
 plugins:
-- jekyll-paginate
+  - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
