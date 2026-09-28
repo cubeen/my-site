@@ -7,17 +7,11 @@
 /* prettier-ignore */
 @use 'main{%- if jekyll.environment == 'production' -%}.bundle{%- endif -%}';
 
-/* Hide theme toggle switch */
-#mode-toggle {
-  display: none !important;
-}
-
 /* Disable right-click, dragging, and convert to black and white */
 #sidebar #avatar img {
   pointer-events: none !important;
   user-select: none !important;
   -webkit-user-drag: none !important;
-  filter: grayscale(100%) !important;
 }
 
 /* Disable the theme's default zoom animation on hover */
