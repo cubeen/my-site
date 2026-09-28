@@ -17,10 +17,11 @@ paginate: 10
 
 # Plugins
 plugins:
-  - jekyll-paginate
+- jekyll-paginate
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-archives
 
 # Build Settings
 markdown: kramdown
@@ -31,3 +32,14 @@ collections:
   tabs:
     output: true
     sort_by: order
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
