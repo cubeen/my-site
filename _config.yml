@@ -10,7 +10,7 @@ lang: en
 
 # Theme Selection (Restored)
 theme: jekyll-theme-chirpy
-theme_mode: dark
+theme_mode: 
 
 # Pagination (Kept to ensure the homepage loop works)
 paginate: 10
